@@ -21,3 +21,10 @@ Pseudo-spectral motion planning for UGVs and UAVs with obstacle avoidance. Explo
 | Path 10 |
 |---------|
 | <img src="UGV paths/10.png" width="300"/> |
+
+
+## UAV Visualizations
+
+- [UAV without dynamics – 1](./UAV%20paths/UAV%20without%20dynamics-1.html)
+- [UAV without dynamics – 2](./UAV%20paths/UAV%20without%20dynamics-2.html)
+- [Validation via RK45 Trajectory Simulation](./UAV%20paths/Validation%20by%20Trajectory%20simulation(RK45).html)
