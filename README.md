@@ -4,7 +4,7 @@ Pseudo-spectral motion planning for UGVs and UAVs with obstacle avoidance. Explo
 
 ---
 
-## UGV Planned Paths
+## UGV(Differential drive robot) Planned Paths
 
 | Path 1 | Path 2 | Path 3 |
 |--------|--------|--------|
